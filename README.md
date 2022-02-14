@@ -1,2 +1,2 @@
-# DSS
-Data Science Storage
+# My Data Science projects
+
